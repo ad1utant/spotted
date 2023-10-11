@@ -7,7 +7,7 @@ function App() {
         <h1>31LO spotted</h1>
         <form>
             <label htmlFor={"entry"}></label>
-            <input type={"text"} id={"entry"} name={"entry"} placeholder={"napisz coś..."}></input>
+            <textarea rows={"4"} cols={"50"} className={"entry"} id={"entry"} placeholder={"napisz coś..."}></textarea>
         </form>
     </div>
 

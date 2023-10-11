@@ -4,6 +4,13 @@
   text-align: center;
 }
 
+.entry{
+  width: 100%;
+  height: 60vh;
+}
+.App{
+  width: 60vw;
+}
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
